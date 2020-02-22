@@ -44,6 +44,10 @@
   "dependencies": {
     "image-webpack-loader": "^5.0.0",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-awesome-slider": "^4.0.2",
+    "react-burger-menu": "^2.6.13",
+    "react-dom": "^16.8.4",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
   }
 }
